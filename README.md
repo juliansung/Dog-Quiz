@@ -6,7 +6,7 @@ Good luck, have fun! :)
 
 # class Dog
 
-1. A Dog class will have <b>three</b> instance variables. Ensure that each instance variable is declared as <b>private</b>.  
+1. A Dog class will have three instance variables. Ensure that each instance variable is declared as <b>private</b>.  
 * age (int)
 * name (String)
 * color (String)
